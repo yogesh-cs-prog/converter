@@ -1,0 +1,52 @@
+.background{
+    position: absolute;
+    background: linear-gradient(90deg,purple,black);
+    height: 1000px;
+    width: 100%;
+}
+.main-container{
+    border-color: black;
+    height: 600px;
+    position: absolute;
+    width: 500px;
+    border: 30px;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 50px;
+    border: solid;
+}
+.degree{
+    width:400px;
+    padding: 20px 20px 20px 20px ;
+    
+}
+.deg-in{
+    margin-left: 5px;
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+    width: 400px;
+    
+}
+.submit{
+    margin-left: 210px;
+    padding: 5px 5px 5px 5px;
+    background-color: green;
+    border: solid;
+    color: white;
+    border-color: black;
+}
+.ans{
+    font-size: 50px;
+    color: white;
+    justify-content: center;
+    margin-top: 5px;
+    display: flex;
+
+}
+.ans2{
+    font-size: 50px;
+    color: white;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
